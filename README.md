@@ -1,4 +1,6 @@
 # PowerAutomate-Bits-And-Bytes
+> I'll be using images to show how these flows work as I don't like the way sharing exported flows work.
+
 
 ### Recursively Remove Spaces From Items In Specified Folder
 > Format: PowerAutomate Online - [Link To Flow Image](https://github.com/vincentwimmer/PowerAutomate-Bits-And-Bytes/blob/main/PA-Recursively-Remove-Spaces-From-Item-Names-In-Specified-Folder.png)
